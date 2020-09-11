@@ -1,0 +1,16 @@
+name: ThinkBayes2
+
+dependencies:
+  - python>=3.6
+  - jupyter
+  - numpy
+  - matplotlib
+  - pandas
+  - statsmodels
+  - lxml
+  - html5lib
+  - scipy
+  - scikit-learn
+  - pip
+  - pip:
+    - empiricaldist
